@@ -4,7 +4,6 @@
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
-- <a href="#analysis-preview">Analysis Preview</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools-technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
@@ -19,8 +18,6 @@ This project aims to analyze and monitor order data to identify trends and perio
 - Conduct trend analysis of orders from Jan 2023 – Dec 2024
 - Quantify performance and growth rates
 - Compare performance against company-defined thresholds
-
-<h2><a class="anchor" id="analysis-preview"></a>🔗 Analysis Preview</h2>
 
 <h2><a class="anchor" id="credits"></a>🪪 Credits</h2>
 
