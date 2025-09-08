@@ -131,28 +131,10 @@ The analytics team has forecasted a **full recovery by Mar 2025**, with orders e
 
 <h2><a class="anchor" id="dashboard"></a>💹 Dashboard</h2>
 
-### 1. Order by Month (Top-Right Chart)
-
-#### What it shows?
-- Line chart tracks monthly order volume from Jan 2023 onwards.
-
-#### How to read?
-- Pay attention to current order volume against Company Threshold
-  - Above 450: Business is healthy
-  - Below 450: Business is declining
-- Note: As per the analytical team, volume will exceed the standard in Mar 2025.
-
----
-
-### 2. Pecentage Change (Orders) by Month (Bottom-Right Chart)
-
-#### What it shows?
-- Line Chart tracks MoM % change from Jan 2023 onwards.
-
-#### How to read?
- - Pay attention to zero-line
-   - Above 0: Order volume is growing
-   - At or Below 0: Order volume is growing
+| Sr. no. | Chart                      | Position     | What it shows?                                                | How to read?                                                                                                                                                                                                                |
+| ------- | -------------------------- | ------------ | ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1       | Order by Month             | Top-Right    | Line chart tracks monthly order volume from Jan 2023 onwards. | Pay attention to current order volume against Company Threshold<br>• Above 450: Business is healthy<br>• Below 450: Business is declining<br>Note: As per the analytical team, volume will exceed the standard in Mar 2025. |
+| 2       | Percentage Change (Orders) | Bottom-Right | Line chart tracks MoM % change from Jan 2023 onwards.         | Pay attention to zero-line<br>• Above 0: Order volume is growing<br>• At or Below 0: Order volume is declining                                                                                                              |
 
 ---
 
