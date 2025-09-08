@@ -1,0 +1,13 @@
+Used ChatGPT to generate synthetic dataset:
+"""
+Generate a data table with 3 columns as:
+1. Month (mmm-yyyy) 
+2. Category (3 categories) 
+3. Orders 
+Orders should follow a trend such as Initially few months it was stable 
+with little uptrend then it went up exponentially for few months, 
+followed by a long downtrend that went below previous orders. 
+Then finally in final 5 months orders started recovering, but they are still very low. 
+Return a data table of atleast 3 years. 
+NO CODE, ONLY COPYABLE TABLE.
+"""
