@@ -160,6 +160,6 @@ The analytics team has forecasted a **full recovery by Mar 2025**, with orders e
 
 <h2><a class="anchor" id="author-contact"></a>📝 Author & Contact</h2>
 
-#### **Gaurav Patil**
+## **Gaurav Patil**
 - Data Analyst 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gaurav-patil-in/)
