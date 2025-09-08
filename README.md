@@ -67,7 +67,7 @@ NaN
 
 For trend analysis we need Orders (Rows) over Months (Columns):
 
-<IMAGE>
+![plain-chart](https://github.com/gaurav-patil-git/03_Trend_Analysis/blob/main/visuals/plain-chart.png)
 
 Here, we are going to explore the visual and identify patterns which provide key business insights.
 
@@ -95,7 +95,7 @@ Here, we are going to explore the visual and identify patterns which provide key
 - Have the orders made complete recovery or partial recovery w.r.t to company benchmark?
 - How far we are from complete recovery?
 
-<IMAGE>
+![eda-chart](https://github.com/gaurav-patil-git/03_Trend_Analysis/blob/main/visuals/eda-chart.png)
 
 <h2><a class="anchor" id="business-questions--key-findings"></a>📈 Business Questions & Key Findings</h2>
 
@@ -130,7 +130,7 @@ The analytics team has forecasted a **full recovery by Mar 2025**, with orders e
 
 ### Final Report:
 
-<IMAGE>
+![<report](https://github.com/gaurav-patil-git/03_Trend_Analysis/blob/main/visuals/report.png)
 
 <h2><a class="anchor" id="dashboard"></a>💹 Dashboard</h2>
 
@@ -158,6 +158,8 @@ The analytics team has forecasted a **full recovery by Mar 2025**, with orders e
    - At or Below 0: Order volume is growing
 
 ---
+
+![dashboard](https://github.com/gaurav-patil-git/03_Trend_Analysis/blob/main/visuals/dashboard.png)
 
 <h2><a class="anchor" id="author-contact"></a>📝 Author & Contact</h2>
 
