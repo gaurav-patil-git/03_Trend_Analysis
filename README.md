@@ -113,7 +113,7 @@ These issues were quickly identified by the analytics team and reported to sales
 * Re-engaged lapsed customers with targeted campaigns
 
 As a result, early signs of improvement were visible from Apr 2024 itself, with **positive percentage changes starting in Sep 2024 (Q3)**.
-Since then, we have maintained positive growth at an **average 5.98% (\~6%) MoM rate**, nearly a percent more than 2024 average.
+Since then, we have maintained positive growth at an **average 5.98% (\~6%) MoM rate**, nearly a percent more than 2023 average.
 
 ---
 
